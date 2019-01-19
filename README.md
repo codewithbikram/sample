@@ -3,8 +3,8 @@
 :+1:
 :-1:
 
-<a href="https://media.giphy.com/media/WvXuLOqJeJ0I0/giphy.gif">
-  <h3>this is a header<h3>
+<a href="https://media.giphy.com/media/WvXuLOqJeJ0I0/giphy.gif" alt="gif image">a gif</a>
+  <h3>this is a header</h3>
     
 
 **bikrm**
@@ -44,10 +44,10 @@ _keshari_
 
 * bikram
 * bikram 
- * keshari
- * keshari
-  * maharana
-  * maharana
+  * keshari
+  * keshari
+    * maharana
+    * maharana
 
 - [x] create
 - [ ] edit
