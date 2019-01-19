@@ -2,7 +2,8 @@
 :smile:
 :+1:
 :-1: 
-    
+
+---
 
 **bikrm**
 _keshari_
@@ -10,9 +11,13 @@ _keshari_
 
 **_~~bikram keshari maharana~~_**
 
+---
+
 > some lines  
 >to explane all these things  
->try it your self  
+>try it your self
+
+---
 
 ```html
 <html>
@@ -30,13 +35,14 @@ _keshari_
     void main(){
       printf("Hello World!");
     }
-````
+```
     #include<stdio.h>
       void main(){
         printf("Hello World!");
        }
 
 
+---
 
 # bikram
 ## bikram
@@ -45,22 +51,31 @@ _keshari_
 ##### bikram
 ###### bikram
 
+---
+
 * bikram
 * bikram 
   * keshari
   * keshari
     * maharana
     * maharana
+    
+    
+---
 
 - [x] create
 - [ ] edit
 - [ ] destroy
+
+---
 
 name | id | address
 ---- | ---- | ------
 bikram | 1 | bbsr
 payal | 2 | ctc
 hari | 3 | angl
+
+---
 
 http://bikramkeshari.in
 
