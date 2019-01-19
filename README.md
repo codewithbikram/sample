@@ -5,7 +5,8 @@
 
 <h1>html header</h1>
 <image src="https://media.giphy.com/media/WvXuLOqJeJ0I0/giphy.gif" alt="gif image" /img>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w3jLJU7DT5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
+<embed src="https://www.youtube.com/embed/w3jLJU7DT5E"></embed>
   
     
 
