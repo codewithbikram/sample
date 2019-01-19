@@ -10,9 +10,9 @@ _keshari_
 
 **_~~bikram keshari maharana~~_**
 
-> some lines
->to explane all these things
->try it your self
+> some lines  
+>to explane all these things  
+>try it your self  
 
 ```html
 <html>
