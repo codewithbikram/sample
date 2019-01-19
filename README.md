@@ -1,5 +1,11 @@
-:love:
+:heart:
 :smile:
+:+1:
+:-1:
+
+<a href="https://media.giphy.com/media/WvXuLOqJeJ0I0/giphy.gif">
+  <h3>this is a header<h3>
+    
 
 **bikrm**
 _keshari_
@@ -58,3 +64,7 @@ http://bikramkeshari.in
 [goto bikram](http://www.bikramkeshari.in)
 
 ![a photo](http://www.bikramkeshari.in/favicon.png)
+
+![a gif](https://media.giphy.com/media/WvXuLOqJeJ0I0/giphy.gif)
+
+
