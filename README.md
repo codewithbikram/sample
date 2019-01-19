@@ -1,13 +1,7 @@
 :heart:
 :smile:
 :+1:
-:-1:
-
-<h1>html header</h1>
-<image src="https://media.giphy.com/media/WvXuLOqJeJ0I0/giphy.gif" alt="gif image" /img>
-  
-<object src="https://www.youtube.com/embed/w3jLJU7DT5E"></object>
-  
+:-1: 
     
 
 **bikrm**
