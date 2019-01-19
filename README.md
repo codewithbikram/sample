@@ -2,25 +2,32 @@
 :smile:
 
 **bikrm**
-__keshari__
+_keshari_
 ~~maharana~~
 
-**__~~bikram keshari maharana~~__**
+**_~~bikram keshari maharana~~_**
 
 > some lines
 >to explane all these things
 >try it your self
 
-```heml
+```html
 <html>
   <head>
     <title>sample document</title>
    </head>
    <body>
-   <p>This is a sample document</p>
+    <p>This is a sample document</p>
    </body>
-  </html>
+ </html>
 ```
+
+    #include<stdio.h>
+    void main(){
+      printf("Hello World!");
+    }
+
+
 
 # bikram
 ## bikram
@@ -48,6 +55,6 @@ hari | 3
 
 http://bikramkeshari.in
 
-[goto bikram](www.bikramkeshari.in)
+[goto bikram](http://www.bikramkeshari.in)
 
-![a photo](www.bikramkeshari.in/favicon.png)
+![a photo](http://www.bikramkeshari.in/favicon.png)
