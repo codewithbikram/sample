@@ -56,11 +56,11 @@ _keshari_
 - [ ] edit
 - [ ] destroy
 
-name | id 
----- | ----
-bikram | 1
-payal | 2
-hari | 3
+name | id | address
+---- | ---- | ------
+bikram | 1 | bbsr
+payal | 2 | ctc
+hari | 3 | angl
 
 http://bikramkeshari.in
 
