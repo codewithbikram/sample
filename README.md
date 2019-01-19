@@ -3,8 +3,9 @@
 :+1:
 :-1:
 
-<a href="https://media.giphy.com/media/WvXuLOqJeJ0I0/giphy.gif" alt="gif image">a gif</a>
-  <h3>this is a header</h3>
+<h1>html header</h1>
+<image src="https://media.giphy.com/media/WvXuLOqJeJ0I0/giphy.gif" alt="gif image" /img>
+  
     
 
 **bikrm**
@@ -28,10 +29,16 @@ _keshari_
  </html>
 ```
 
-    #include<stdio.h>
+```c
+#include<stdio.h>
     void main(){
       printf("Hello World!");
     }
+````
+    #include<stdio.h>
+      void main(){
+        printf("Hello World!");
+       }
 
 
 
