@@ -1,23 +1,26 @@
-# sample
-This repository is meant for self learning
-
-
-:laugh:
+:love:
 :smile:
 
-name | id 
----- | ----
-bikram | 1
-payal | 2
-hari | 3
+**bikrm**
+__keshari__
+~~maharana~~
 
-[ x ] create
-[ ] edit
-[ ] destroy
+**__~~bikram keshari maharana~~__**
 
-(goto bikram)[www.bikramkeshari.in]
+> some lines
+>to explane all these things
+>try it your self
 
-!(a photo)[www.bikramkeshari.in/favicon.png]
+```heml
+<html>
+  <head>
+    <title>sample document</title>
+   </head>
+   <body>
+   <p>This is a sample document</p>
+   </body>
+  </html>
+```
 
 # bikram
 ## bikram
@@ -28,5 +31,23 @@ hari | 3
 
 * bikram
 * bikram 
-* * bikram
-* * bikram
+ * keshari
+ * keshari
+  * maharana
+  * maharana
+
+- [x] create
+- [ ] edit
+- [ ] destroy
+
+name | id 
+---- | ----
+bikram | 1
+payal | 2
+hari | 3
+
+http://bikramkeshari.in
+
+[goto bikram](www.bikramkeshari.in)
+
+![a photo](www.bikramkeshari.in/favicon.png)
