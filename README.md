@@ -79,9 +79,9 @@ hari | 3 | angl
 
 http://bikramkeshari.in
 
-[goto bikram](http://www.bikramkeshari.in)
+[goto bikram](https://bikramkeshari.com)
 
-![a photo](http://www.bikramkeshari.in/favicon.png)
+![a photo](https://bikramkeshari.com/assets/icons/512.png)
 
 ![a gif](https://media.giphy.com/media/WvXuLOqJeJ0I0/giphy.gif)
 
