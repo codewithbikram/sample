@@ -77,7 +77,7 @@ hari | 3 | angl
 
 ---
 
-http://bikramkeshari.in
+http://bikramkeshari.com
 
 [goto bikram](https://bikramkeshari.com)
 
